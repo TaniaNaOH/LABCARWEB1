@@ -1,0 +1,71 @@
+/* Los estilos de tu proyecto */
+
+body {
+background-color:
+  }
+
+nav ul li a{
+    color: black;
+  }
+
+max-width {
+  max-width: 10%;
+  height:auto;
+}
+
+.taxi{
+  background-image: url(../css/assets/images/taxi.jpg);
+  background-size: cover;
+  background-position: bottom;
+  height: 100vh;
+  margin: 0 auto;
+  width: 100%;
+}
+
+body > div:nth-child(2) > div
+{
+  margin: 0 auto;
+}
+
+body > div:nth-child(3) > div:nth-child(2) > div
+{
+  margin: 0 auto;
+}
+
+body > div:nth-child(3) > div:nth-child(3) > div
+{
+  margin: 0 auto;
+}
+
+
+
+body > div:nth-child(3) > div.card-panel.amber
+{
+  margin: 0 auto;
+}
+
+
+
+.card2 {
+  border: 1px solid white;
+}
+
+
+
+.conduce {
+  background-image: url(../css/assets/images/conduce.jpg);
+  background-size: cover;
+  background-position: bottom;
+  height: 100vh;
+  margin: 0 auto;
+  width: 100%;
+}
+
+h5 {
+  color: white;
+}
+
+
+h5 {
+  color: white;
+}
