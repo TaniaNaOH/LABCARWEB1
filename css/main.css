@@ -1,82 +1,79 @@
 /* Los estilos de tu proyecto */
-
-body {
-background-color:
-  }
-
-nav ul li a{
-    color: black;
-  }
+nav ul li a {
+	color:black;
+}
 
 max-width {
-  max-width: 10%;
-  height:auto;
+	max-width:10%;
+	height:auto;
 }
 
 .vert-align {
-  margin: 0px;
-    padding: 0px;
-    float: left;
-    width: 100%;
-    position: absolute;
-    top: 50%;
-    transform: translateY(50%) translateX(-47%);
-    left: 50%;
+	margin:0px;
+	padding:20px;
+	float:left;
+	width:100%;
+	position:absolute;
+	transform:translateY(25%) translateX(-47%);
+	left:50%;
 }
 
-.taxi{
-  background-image: url(../css/assets/images/taxi.jpg);
-  background-size: cover;
-  background-position: bottom;
-  height: 100vh;
-  margin: 0 auto;
-  width: 100%;
-}
-
-body > div:nth-child(2) > div
-{
-  margin: 0 auto;
-}
-
-body > div:nth-child(3) > div:nth-child(2) > div
-{
-  margin: 0 auto;
-}
-
-body > div:nth-child(3) > div:nth-child(3) > div
-{
-  margin: 0 auto;
+.transparent {
+	margin:0px;
+	padding:20px;
+	float:left;
+	width:100%;
+	position:absolute;
+	top:40%;
+	transform:translateY(70%) translateX(-77%);
+	left:50%;
 }
 
 
-
-body > div:nth-child(3) > div.card-panel.amber
-{
-  margin: 0 auto;
+.taxi {
+	background-image:url(../css/assets/images/taxi.jpg);
+	background-size:cover;
+	background-position:bottom;
+	height:100vh;
+	margin:0 auto;
+	width:100%;
 }
 
+body>div:nth-child(2)>div {
+	margin:0 auto;
+}
 
+body>div:nth-child(3)>div:nth-child(2)>div {
+	margin:0 auto;
+}
+
+body>div:nth-child(3)>div:nth-child(3)>div {
+	margin:0 auto;
+}
+
+body>div:nth-child(3)>div.card-panel.amber {
+	margin:0 auto;
+}
 
 .card2 {
-  border: 1px solid white;
+	border:1px solid white;
 }
-
-
 
 .conduce {
-  background-image: url(../css/assets/images/conduce.jpg);
-  background-size: cover;
-  background-position: bottom;
-  height: 100vh;
-  margin: 0 auto;
-  width: 100%;
-}
-
-h5 {
-  color: white;
+	background-image:url(../css/assets/images/conduce.jpg);
+	background-size:cover;
+	background-position:bottom;
+	height:100vh;
+	margin:0 auto;
+	width:100%;
 }
 
 
 h5 {
-  color: white;
+	color:white;
+}
+
+/*
+.iframe {
+  border: 1px solid white;
 }
