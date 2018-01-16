@@ -1,12 +1,64 @@
 /* Los estilos de tu proyecto */
+
+body {
+	font-family: roboto;
+}
+
 nav ul li a {
 	color:black;
 }
 
 max-width {
-	max-width:10%;
+	max-width:100%;
 	height:auto;
 }
+
+
+
+body > div:nth-child(4) > div > div
+{
+	margin: 0 auto;
+}
+
+
+body > div:nth-child(2) > div > div
+{
+	margin: 0 auto;
+}
+
+body > div:nth-child(6) > div > div
+{
+	margin: 0 auto;
+}
+
+body > div:nth-child(8) > div > div
+{
+	margin: 0 auto;
+}
+
+body > div:nth-child(3) > div > div
+{
+	margin: 0 auto;
+}
+
+
+body > div:nth-child(5) > div > div
+{
+	margin: 0 auto;
+}
+
+
+body > div:nth-child(7) > div > div
+{
+	margin: 0 auto;
+}
+
+body > div:nth-child(9) > div > div
+{
+	margin: 0 auto;
+}
+
+
 
 .vert-align {
 	margin:0px;
@@ -37,22 +89,6 @@ max-width {
 	height:100vh;
 	margin:0 auto;
 	width:100%;
-}
-
-body>div:nth-child(2)>div {
-	margin:0 auto;
-}
-
-body>div:nth-child(3)>div:nth-child(2)>div {
-	margin:0 auto;
-}
-
-body>div:nth-child(3)>div:nth-child(3)>div {
-	margin:0 auto;
-}
-
-body>div:nth-child(3)>div.card-panel.amber {
-	margin:0 auto;
 }
 
 .card2 {
